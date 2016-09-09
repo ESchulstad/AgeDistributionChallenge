@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AgeDistributionChallenge\AgeDistributionChallenge\bin\Debug\AgeDistributionChallenge.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\AgeDistributionChallenge\AgeDistributionChallenge\obj\Debug\AgeDistributionChallenge.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\AgeDistributionChallenge\AgeDistributionChallenge\bin\Debug\AgeDistributionChallenge.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\AgeDistributionChallenge\AgeDistributionChallenge\bin\Debug\AgeDistributionChallenge.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\AgeDistributionChallenge\AgeDistributionChallenge\obj\Debug\AgeDistributionChallenge.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\AgeDistributionChallenge\AgeDistributionChallenge\obj\Debug\AgeDistributionChallenge.pdb
